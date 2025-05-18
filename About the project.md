@@ -17,9 +17,9 @@ Database Structure
 The database consists of the following tables:
 
 - Customers: Stores customer information, including name, email, and phone number.
-- Events: Stores event details, including name, date, location, and ticket availability.
+- Events: Stores event details, including name, date and location.
 - Reservations: Tracks reservations made by customers, including event and ticket details.
-- Tickets: Stores ticket information, including type, price, and availability.
+- Tickets: Stores ticket information, including type and price.
 - Sales: Stores sales transactions, including customer, event, and ticket details.
 
 Queries and Analysis
