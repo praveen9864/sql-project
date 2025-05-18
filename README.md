@@ -24,10 +24,10 @@ The database consists of the following tables:
 
 Querying THE DATABASE 
 
-- 1. Operators-Based Retrieve Queries.
-- 2. Get the details of all events that have no tickets sold.
-  3. Customers who booked tickets for more than one event.
-  4. Find the total number of events in each category.
+###1. Operators-Based Retrieve Queries.
+###2. Get the details of all events that have no tickets sold.
+###3. Customers who booked tickets for more than one event.
+###4. Find the total number of events in each category.
   5. Find the number of male and female customers.
   6. What are the top 3 days with the highest revenue for ticket sales?
   7. Get the details of all customers who have made a reservation.
